@@ -1,4 +1,6 @@
 name: LoupGarou
-main: fr.aci.pluginLG.PluginLG
-version: 0.0.1
-api-version: 1.15
+version: 1.0.1
+description: Permet de jouer au jeu du loup garou
+main: fr.aci.loupgarou.MainLg
+depend: [ProtocolLib]
+api-version: 0.0.1
